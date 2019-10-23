@@ -5,10 +5,10 @@ https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64.exe
 
 Lesson: 1) Book python pages 108-114  2) https://docs.google.com/document/d/1mYEkGcgHK5RGlFnpADw9d36dVA3Ud3QM_8MqM7Q7d3Y
 
-Tasks:
-https://stepik.org/lesson/142208/step/4?unit=116414
-https://stepik.org/lesson/253088/step/1?unit=234410
-https://stepik.org/lesson/253733/step/1?unit=234411
+Tasks:<br>
+https://stepik.org/lesson/142208/step/4?unit=116414<br>
+https://stepik.org/lesson/253088/step/1?unit=234410<br>
+https://stepik.org/lesson/253733/step/1?unit=234411<br>
 
 
 MCPI
